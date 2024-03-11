@@ -1,4 +1,5 @@
-# Import the create_cd_account and create_savings_account functions
+"""Import the create_cd_account and create_savings_account functions"""
+
 from savings_account import create_savings_account
 from cd_account import create_cd_account
 
