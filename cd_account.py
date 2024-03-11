@@ -1,4 +1,5 @@
-# Import the Account class from the Account.py file.
+"""Import the Account class from the Account.py file."""
+
 from Account import Account
 
 
